@@ -115,16 +115,19 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
     float: left;
+    margin-right: 25px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
     float: right;
+    margin-left: 25px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
     float: left;
+    margin-right: 25px;
 }
 
 .search-engine-optimization h2 {
@@ -171,15 +174,19 @@ p {
     max-width: 150px;
 }
 
+.benefit-type div {
+    padding: 20px;
+}
+
 /*--Footer Styling--*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
