@@ -8,7 +8,7 @@
 https://
 
 ## Page Layout
-![Horiseon](./assets/screencapture.png) 
+![Horiseon](./screencapture.png) 
 
 ## Contribution 
 
