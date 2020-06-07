@@ -8,7 +8,7 @@
 https://
 
 ## Page Layout
-![Webpage layout!](./assets/screencapture.png) 
+![Webpage layout!](/assets/screencapture.png "Horiseon website") 
 
 ## Contribution 
 
