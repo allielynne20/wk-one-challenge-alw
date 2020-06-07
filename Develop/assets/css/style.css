@@ -9,17 +9,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/*--Utility Classes--*/
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /*--Header Styling--*/ 
 .header {
@@ -66,6 +55,7 @@ p {
     font-size: 16px;
 }
 
+
 /*--Hero Styling--*/
 
 .hero {
@@ -76,6 +66,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 
 /*--Main Styling--*/
 
@@ -145,6 +136,7 @@ p {
     font-size: 36px;
 }
 
+
 /*--Aside Styling--*/
 
 .benefits {
@@ -177,6 +169,7 @@ p {
 .benefit-type div {
     padding: 20px;
 }
+
 
 /*--Footer Styling--*/
 
