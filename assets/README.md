@@ -8,7 +8,7 @@
 https://
 
 ## Page Layout
-![Webpage layout!](./assets/images/screencapture.png) 
+![Webpage layout!](./assets/screencapture.png) 
 
 ## Contribution 
 
